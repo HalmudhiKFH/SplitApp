@@ -1,0 +1,9 @@
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\bin\Debug\TestClient.exe
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\bin\Debug\TestClient.pdb
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\obj\Debug\TestClient.csproj.AssemblyReference.cache
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\obj\Debug\TestClient.csproj.GenerateResource.cache
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\obj\Debug\TestClient.exe
+C:\Users\8959\source\repos\splitAppAsmxServices\TestClient\obj\Debug\TestClient.pdb

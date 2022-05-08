@@ -1,0 +1,16 @@
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.csproj.AssemblyReference.cache
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.AssemblyInfoInputs.cache
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.AssemblyInfo.cs
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.csproj.CoreCompileInputs.cache
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\bin\Debug\net5.0\SplitAppCallingWebservicesApp.exe
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\bin\Debug\net5.0\SplitAppCallingWebservicesApp.deps.json
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\bin\Debug\net5.0\SplitAppCallingWebservicesApp.runtimeconfig.json
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\bin\Debug\net5.0\SplitAppCallingWebservicesApp.runtimeconfig.dev.json
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\bin\Debug\net5.0\SplitAppCallingWebservicesApp.dll
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\bin\Debug\net5.0\ref\SplitAppCallingWebservicesApp.dll
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\bin\Debug\net5.0\SplitAppCallingWebservicesApp.pdb
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.dll
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\ref\SplitAppCallingWebservicesApp.dll
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.pdb
+C:\Users\8959\source\repos\SplitAppCallingWebservicesApp\SplitAppCallingWebservicesApp\obj\Debug\net5.0\SplitAppCallingWebservicesApp.genruntimeconfig.cache
